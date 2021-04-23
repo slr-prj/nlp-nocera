@@ -1,0 +1,12 @@
+[Project]
+Name = nlp-nocera
+Author = Antonino Nocera
+Description = Classification of terms about papers Natural Language Processing
+Keywords = natural language processing, machine learning
+Version = 1.0
+
+[Source]
+URL = www.scopus.com
+Query = "natural language processing" "text mining"
+Date = 2021-03-02
+
